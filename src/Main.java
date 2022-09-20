@@ -3,5 +3,6 @@ public class    Main {
         System.out.println("Hello world!");
         System.out.println("123");
         String str = "Hello";
+        int third = 0;
     }
 }
