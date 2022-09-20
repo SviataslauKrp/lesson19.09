@@ -4,5 +4,6 @@ public class    Main {
         System.out.println("123");
         String str = "Hello";
         int third = 0;
+        String newHello = "Hello again";
     }
 }
