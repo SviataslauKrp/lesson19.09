@@ -5,5 +5,6 @@ public class    Main {
         String str = "Hello";
         int third = 0;
         String newHello = "Hello again";
+        int fifth = 5;
     }
 }
